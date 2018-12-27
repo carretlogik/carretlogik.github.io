@@ -121,7 +121,7 @@ input[type=submit]:active {
 }
 @media (min-width: 640px) {
   .header__logo {
-    max-width: 30rem;
+    max-width: 40rem;
   }
 }
 .header__logo > svg {
