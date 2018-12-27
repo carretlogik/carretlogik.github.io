@@ -33,7 +33,8 @@ a:hover {
   opacity: 0.8;
 }
 
-svg {
+
+img, svg {
   overflow: hidden;
   vertical-align: middle;
   position: relative;
