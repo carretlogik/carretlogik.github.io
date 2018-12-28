@@ -116,12 +116,12 @@ input[type=submit]:active {
   padding: 3.2rem 1.6rem;
 }
 .header__logo {
-  max-width: 20rem;
+  /* max-width: 20rem; REMOVED */ 
   margin: auto;
 }
 @media (min-width: 640px) {
   .header__logo {
-    max-width: 40rem;
+    max-width: 40em;
   }
 }
 .header__logo > svg {
