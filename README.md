@@ -1,4 +1,4 @@
-# 1st Product: Real Estate Automated Valuation Model (AVM) for Edmonton
+# Real Estate Automated Valuation Model (AVM) for Edmonton
 
-Potential investors / interested parties:
+Potential investors:
 - http://aref.ab.ca/
